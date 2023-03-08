@@ -1,0 +1,12 @@
+dir → Lista todos os arquivos do diretório atual
+cls → Limpa a tela
+echo → "escreva" do Windows (Imprime na tela)
+date → Mostra a data atual
+cd c:\ → Acessa o root do sistema
+cd "diretório" → Acessa o diretório especifico
+mkdir → Criação de pastas
+type → Vê o conteudo do arquivo
+.\  → Significa diretorio atual
+.. → Voltar para o diretório anterior
+> → Serve como redirecionamento 
+>> → Mantem o arquivo original e adiciona outra linha
